@@ -1,0 +1,81 @@
+
+
+.head {
+    background: white;
+    overflow: auto;
+    width: 100%;
+    margin: auto;
+    position: relative;
+}
+
+#about{
+    color: blue;
+    width: 6%;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 18px;
+    float: right;
+}
+
+#contact {
+    color: blue;
+    width: 6%;
+    text-align: center;
+    margin-right: 10px;
+    font-size: 18px;
+    float: right;
+}
+
+#port {
+    color: blue;
+    right: 0;
+    text-align: center;
+    margin-right: 20px;
+    font-size: 18px;
+    float: right;
+}
+
+h1 {
+    margin-left: 6%;
+    float: left;
+    font-size: 35px;
+    background-color: violet;
+}
+
+body {
+    clear: both;
+    background: white;
+}
+
+
+.contain {
+    background-color: grey;
+    position: fixed;
+    margin: 20px 20px 20px 20px;
+}
+
+h2 {
+    width: 15%;
+    font-size: 28px;
+    background-color: violet;
+    margin-left: 40px;
+    margin-top: 50px
+}    
+
+#picture {
+    position: relative;
+    width: 35%;
+    margin-top: 15px;
+    margin-left: 5px;
+    float: left;
+    padding: 30px;
+}
+.content {
+    color: black;
+    position: relative;
+    width: 50%;
+    float: left;
+    margin: 35px 20px 20px 20px;
+    line-height: 22px;
+}
+
