@@ -6,6 +6,7 @@
     margin: 19px 0px -6px 160px;
     padding: 2px;
     text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 .link {
@@ -40,6 +41,7 @@
     text-align: center;
     float: left;
     font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .picture {
@@ -52,7 +54,7 @@
 .words {
     background-color: #ffff;
     margin: 1% 0% 0% 0%;
-    padding: 2px;
+    padding: 8px;
     float: left;
 }
 
@@ -93,6 +95,13 @@ input {
     width: 910px;
 }
 
+.btn {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 14px 28px;
+    font-size: 16px;
+}
+
 .top-bar {
     background-color: #ffffff;
     margin-top: 0px;
@@ -105,7 +114,9 @@ input {
     padding: 2px;
     text-align: center;
     background-color: #4aaaa5;
-    color: #ffff
+    color: #ffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 27px;
 
 }
 
