@@ -190,8 +190,8 @@ h2 {
     height: 96px;
 }
 
-
 .l1, .l2, .l3, .l4, .l5, .l6 {
+    color: #ffffff;
     text-align: center;
     padding: 2px;
     background-color:   #4aaaa5;
@@ -233,6 +233,7 @@ a {
 
 .lower {
     position: fixed;
+    border-top: solid #4aaaa5;
     padding: 10px 0;
     left: 0;
     bottom: 0;
